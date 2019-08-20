@@ -48,6 +48,10 @@ AmyYang
     func chooseItem(_ selectionView: UIView, index: Int)
     
     func isSelected(_ selectionView: UIView, index: Int)-> Bool}
+    
+    
+    
+![](https://github.com/kbl26amy/mopcomDelegate/blob/master/delegate練習.gif?raw=true)
 
 
 ----
