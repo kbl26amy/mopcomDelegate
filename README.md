@@ -21,7 +21,7 @@ AmyYang
 ## protocol
 # 設計內容
 
-*可選擇button*
+*遵從兩個protocol*
 
 
 >SelectionViewDataSource
